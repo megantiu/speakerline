@@ -15,7 +15,27 @@
  */
 
 .navigation {
-  margin-top: 5%
+  margin-top: 5%;
+}
+
+.navigation a {
+  text-decoration: none;
+  color: #9B9B9B;
+  font-family: avenir next
+}
+
+.navigation ul {
+  list-style-type: none;
+}
+
+.navigation ul li {
+  display: inline;
+  font-size: 22px;
+}
+
+li .heading {
+  font-size: 48px;
+  color: #333333;
 }
 
 .medium-height {
